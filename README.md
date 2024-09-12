@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240807 - COLORado PXL Bar 8](https://github.com/Chauvet-Pro/COLORADOPXLBAR8/blob/54f512eb1b25fcddd209a251afc71c81b875509b/FIRMWARE/V1.240807.zip)
+- Added new PWM firmware update
+
 [V1.240719 - COLORado PXL Bar 8](https://github.com/Chauvet-Pro/COLORADOPXLBAR8/blob/a0feeceb9c92af3a0c12a8a8d2899c4e421d344f/FIRMWARE/V1.240719.zip)
 - Fixed the thermistor error issue
 
