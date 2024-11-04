@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241023 - COLORado PXL Bar 8](https://github.com/Chauvet-Pro/COLORADOPXLBAR8/blob/5905e87eaa4b8ed54082b55b718fc67e3f87fa4c/FIRMWARE/V1.241023.zip)
+- Fixed control-channel values
+
 [V1.240807 - COLORado PXL Bar 8](https://github.com/Chauvet-Pro/COLORADOPXLBAR8/blob/54f512eb1b25fcddd209a251afc71c81b875509b/FIRMWARE/V1.240807.zip)
 - Added new PWM firmware update
 
