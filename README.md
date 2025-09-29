@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.250911 - COLORado PXL Bar 8](https://github.com/Chauvet-Pro/COLORADOPXLBAR8/blob/61959c9fe8b369b64623f39f2fb207d497851b7b/FIRMWARE/V1.250911.zip)
+- Change the universe range of ArtNet to be 0--32767
+- Change the way how universe is entered and confirmed.
+
 [V1.241023 - COLORado PXL Bar 8](https://github.com/Chauvet-Pro/COLORADOPXLBAR8/blob/5905e87eaa4b8ed54082b55b718fc67e3f87fa4c/FIRMWARE/V1.241023.zip)
 - Fixed control-channel values
 
